@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1227.98 484.74">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ff931e;
+        font-family: Rockwell, Rockwell;
+        font-size: 426.56px;
+        stroke: #e75a0d;
+        stroke-miterlimit: 10;
+        stroke-width: 10px;
+      }
+
+      .cls-2 {
+        letter-spacing: -.04em;
+      }
+    </style>
+  </defs>
+  <text class="cls-1" transform="translate(5 363.1) scale(1.17 1)"><tspan x="0" y="0">H A</tspan><tspan class="cls-2" x="706.5" y="0"> </tspan><tspan x="796.06" y="0">T</tspan></text>
+</svg>
